@@ -1,0 +1,232 @@
+Uri: https://otherside.xyz/
+File Name: C:\Downloaded Web Sites\otherside.xyz\index.htm
+Content Type: text/html
+
+Uri: https://otherside.xyz/animoca-privacy-policy
+File Name: C:\Downloaded Web Sites\otherside.xyz\animoca-privacy-policy.html
+Content Type: text/html
+
+Uri: https://otherside.xyz/animoca-terms
+File Name: C:\Downloaded Web Sites\otherside.xyz\animoca-terms.html
+Content Type: text/html
+
+Uri: https://otherside.xyz/assets/buy/dock.mp4
+File Name: C:\Downloaded Web Sites\otherside.xyz\assets\buy\dock.mp4
+Content Type: video/mp4
+
+Uri: https://otherside.xyz/assets/chart-privacy-1.jpg
+File Name: C:\Downloaded Web Sites\otherside.xyz\assets\chart-privacy-1.jpg
+Content Type: image/jpeg
+
+Uri: https://otherside.xyz/assets/chart-privacy-2.jpg
+File Name: C:\Downloaded Web Sites\otherside.xyz\assets\chart-privacy-2.jpg
+Content Type: image/jpeg
+
+Uri: https://otherside.xyz/assets/favicon/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\otherside.xyz\assets\favicon\apple-touch-icon.png
+Content Type: image/png
+
+Uri: https://otherside.xyz/assets/favicon/favicon.svg
+File Name: C:\Downloaded Web Sites\otherside.xyz\assets\favicon\favicon.svg
+Content Type: image/svg+xml
+
+Uri: https://otherside.xyz/cdn-cgi/images/browser-bar.png?1376755637
+File Name: C:\Downloaded Web Sites\otherside.xyz\cdn-cgi\images\browser-bar.png
+Content Type: image/png
+
+Uri: https://otherside.xyz/cdn-cgi/images/cf-icon-browser.png
+File Name: C:\Downloaded Web Sites\otherside.xyz\cdn-cgi\images\cf-icon-browser.png
+Content Type: image/png
+
+Uri: https://otherside.xyz/cdn-cgi/images/cf-icon-cloud.png
+File Name: C:\Downloaded Web Sites\otherside.xyz\cdn-cgi\images\cf-icon-cloud.png
+Content Type: image/png
+
+Uri: https://otherside.xyz/cdn-cgi/images/cf-icon-error.png
+File Name: C:\Downloaded Web Sites\otherside.xyz\cdn-cgi\images\cf-icon-error.png
+Content Type: image/png
+
+Uri: https://otherside.xyz/cdn-cgi/images/cf-icon-horizontal-arrow.png
+File Name: C:\Downloaded Web Sites\otherside.xyz\cdn-cgi\images\cf-icon-horizontal-arrow.png
+Content Type: image/png
+
+Uri: https://otherside.xyz/cdn-cgi/images/cf-icon-ok.png
+File Name: C:\Downloaded Web Sites\otherside.xyz\cdn-cgi\images\cf-icon-ok.png
+Content Type: image/png
+
+Uri: https://otherside.xyz/cdn-cgi/images/cf-icon-server.png
+File Name: C:\Downloaded Web Sites\otherside.xyz\cdn-cgi\images\cf-icon-server.png
+Content Type: image/png
+
+Uri: https://otherside.xyz/cdn-cgi/images/cf-no-screenshot-error.png
+File Name: C:\Downloaded Web Sites\otherside.xyz\cdn-cgi\images\cf-no-screenshot-error.png
+Content Type: image/png
+
+Uri: https://otherside.xyz/cdn-cgi/images/cf-no-screenshot-warn.png
+File Name: C:\Downloaded Web Sites\otherside.xyz\cdn-cgi\images\cf-no-screenshot-warn.png
+Content Type: image/png
+
+Uri: https://otherside.xyz/cdn-cgi/images/icon-exclamation.png?1376755637
+File Name: C:\Downloaded Web Sites\otherside.xyz\cdn-cgi\images\icon-exclamation.png
+Content Type: image/png
+
+Uri: https://otherside.xyz/cdn-cgi/l/email-protection
+File Name: C:\Downloaded Web Sites\otherside.xyz\cdn-cgi\l\email-protection.html
+Content Type: text/html
+
+Uri: https://otherside.xyz/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: C:\Downloaded Web Sites\otherside.xyz\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min.js
+Content Type: application/javascript
+
+Uri: https://otherside.xyz/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js
+File Name: C:\Downloaded Web Sites\otherside.xyz\cdn-cgi\scripts\7d0fa10a\cloudflare-static\rocket-loader.min.js
+Content Type: application/javascript
+
+Uri: https://otherside.xyz/cdn-cgi/styles/cf.errors.css
+File Name: C:\Downloaded Web Sites\otherside.xyz\cdn-cgi\styles\cf.errors.css
+Content Type: text/css
+
+Uri: https://otherside.xyz/favicon.ico
+File Name: C:\Downloaded Web Sites\otherside.xyz\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://otherside.xyz/fonts/CoandaTRIAL-Bold.woff
+File Name: C:\Downloaded Web Sites\otherside.xyz\fonts\CoandaTRIAL-Bold.woff
+Content Type: application/font-woff
+
+Uri: https://otherside.xyz/fonts/CoandaTRIAL-Bold.woff2
+File Name: C:\Downloaded Web Sites\otherside.xyz\fonts\CoandaTRIAL-Bold.woff2
+Content Type: font/woff2
+
+Uri: https://otherside.xyz/fonts/CoandaTRIAL-Light.woff
+File Name: C:\Downloaded Web Sites\otherside.xyz\fonts\CoandaTRIAL-Light.woff
+Content Type: application/font-woff
+
+Uri: https://otherside.xyz/fonts/CoandaTRIAL-Light.woff2
+File Name: C:\Downloaded Web Sites\otherside.xyz\fonts\CoandaTRIAL-Light.woff2
+Content Type: font/woff2
+
+Uri: https://otherside.xyz/fonts/CoandaTRIAL-Regular.woff
+File Name: C:\Downloaded Web Sites\otherside.xyz\fonts\CoandaTRIAL-Regular.woff
+Content Type: application/font-woff
+
+Uri: https://otherside.xyz/fonts/CoandaTRIAL-Regular.woff2
+File Name: C:\Downloaded Web Sites\otherside.xyz\fonts\CoandaTRIAL-Regular.woff2
+Content Type: font/woff2
+
+Uri: https://otherside.xyz/fonts/F37Judge-BoldCondensed.woff
+File Name: C:\Downloaded Web Sites\otherside.xyz\fonts\F37Judge-BoldCondensed.woff
+Content Type: application/font-woff
+
+Uri: https://otherside.xyz/fonts/F37Judge-BoldCondensed.woff2
+File Name: C:\Downloaded Web Sites\otherside.xyz\fonts\F37Judge-BoldCondensed.woff2
+Content Type: font/woff2
+
+Uri: https://otherside.xyz/fonts/F37Judge-MediumCompressed.woff
+File Name: C:\Downloaded Web Sites\otherside.xyz\fonts\F37Judge-MediumCompressed.woff
+Content Type: application/font-woff
+
+Uri: https://otherside.xyz/fonts/F37Judge-MediumCompressed.woff2
+File Name: C:\Downloaded Web Sites\otherside.xyz\fonts\F37Judge-MediumCompressed.woff2
+Content Type: font/woff2
+
+Uri: https://otherside.xyz/fonts/F37Judge-RegularCompressed.woff
+File Name: C:\Downloaded Web Sites\otherside.xyz\fonts\F37Judge-RegularCompressed.woff
+Content Type: application/font-woff
+
+Uri: https://otherside.xyz/fonts/F37Judge-RegularCompressed.woff2
+File Name: C:\Downloaded Web Sites\otherside.xyz\fonts\F37Judge-RegularCompressed.woff2
+Content Type: font/woff2
+
+Uri: https://otherside.xyz/fonts/Inter-Bold.woff
+File Name: C:\Downloaded Web Sites\otherside.xyz\fonts\Inter-Bold.woff
+Content Type: application/font-woff
+
+Uri: https://otherside.xyz/fonts/Inter-Bold.woff2
+File Name: C:\Downloaded Web Sites\otherside.xyz\fonts\Inter-Bold.woff2
+Content Type: font/woff2
+
+Uri: https://otherside.xyz/fonts/Inter-Medium.woff
+File Name: C:\Downloaded Web Sites\otherside.xyz\fonts\Inter-Medium.woff
+Content Type: application/font-woff
+
+Uri: https://otherside.xyz/fonts/Inter-Medium.woff2
+File Name: C:\Downloaded Web Sites\otherside.xyz\fonts\Inter-Medium.woff2
+Content Type: font/woff2
+
+Uri: https://otherside.xyz/fonts/Inter-Regular.woff
+File Name: C:\Downloaded Web Sites\otherside.xyz\fonts\Inter-Regular.woff
+Content Type: application/font-woff
+
+Uri: https://otherside.xyz/fonts/Inter-Regular.woff2
+File Name: C:\Downloaded Web Sites\otherside.xyz\fonts\Inter-Regular.woff2
+Content Type: font/woff2
+
+Uri: https://otherside.xyz/_next/static/chunks/361-05ec019ebd9a2832.js
+File Name: C:\Downloaded Web Sites\otherside.xyz\_next\static\chunks\361-05ec019ebd9a2832.js
+Content Type: application/javascript
+
+Uri: https://otherside.xyz/_next/static/chunks/655-5e5b8d455f6f1e7e.js
+File Name: C:\Downloaded Web Sites\otherside.xyz\_next\static\chunks\655-5e5b8d455f6f1e7e.js
+Content Type: application/javascript
+
+Uri: https://otherside.xyz/_next/static/chunks/705-206d25efa657d96f.js
+File Name: C:\Downloaded Web Sites\otherside.xyz\_next\static\chunks\705-206d25efa657d96f.js
+Content Type: application/javascript
+
+Uri: https://otherside.xyz/_next/static/chunks/793-39c9594c8890d354.js
+File Name: C:\Downloaded Web Sites\otherside.xyz\_next\static\chunks\793-39c9594c8890d354.js
+Content Type: application/javascript
+
+Uri: https://otherside.xyz/_next/static/chunks/ee9ce975-43103a92525b1a3f.js
+File Name: C:\Downloaded Web Sites\otherside.xyz\_next\static\chunks\ee9ce975-43103a92525b1a3f.js
+Content Type: application/javascript
+
+Uri: https://otherside.xyz/_next/static/chunks/framework-5f4595e5518b5600.js
+File Name: C:\Downloaded Web Sites\otherside.xyz\_next\static\chunks\framework-5f4595e5518b5600.js
+Content Type: application/javascript
+
+Uri: https://otherside.xyz/_next/static/chunks/main-164920eac96bc1c7.js
+File Name: C:\Downloaded Web Sites\otherside.xyz\_next\static\chunks\main-164920eac96bc1c7.js
+Content Type: application/javascript
+
+Uri: https://otherside.xyz/_next/static/chunks/pages/animoca-privacy-policy-e31184ede1ae5cc6.js
+File Name: C:\Downloaded Web Sites\otherside.xyz\_next\static\chunks\pages\animoca-privacy-policy-e31184ede1ae5cc6.js
+Content Type: application/javascript
+
+Uri: https://otherside.xyz/_next/static/chunks/pages/animoca-terms-f2aefc7bb592a9ce.js
+File Name: C:\Downloaded Web Sites\otherside.xyz\_next\static\chunks\pages\animoca-terms-f2aefc7bb592a9ce.js
+Content Type: application/javascript
+
+Uri: https://otherside.xyz/_next/static/chunks/pages/index-9fc1a1b864102310.js
+File Name: C:\Downloaded Web Sites\otherside.xyz\_next\static\chunks\pages\index-9fc1a1b864102310.js
+Content Type: application/javascript
+
+Uri: https://otherside.xyz/_next/static/chunks/pages/_app-86ce7a06099513c5.js
+File Name: C:\Downloaded Web Sites\otherside.xyz\_next\static\chunks\pages\_app-86ce7a06099513c5.js
+Content Type: application/javascript
+
+Uri: https://otherside.xyz/_next/static/chunks/polyfills-5cd94c89d3acac5f.js
+File Name: C:\Downloaded Web Sites\otherside.xyz\_next\static\chunks\polyfills-5cd94c89d3acac5f.js
+Content Type: application/javascript
+
+Uri: https://otherside.xyz/_next/static/chunks/webpack-434fefa8f39d8fbc.js
+File Name: C:\Downloaded Web Sites\otherside.xyz\_next\static\chunks\webpack-434fefa8f39d8fbc.js
+Content Type: application/javascript
+
+Uri: https://otherside.xyz/_next/static/css/cee2dfefdbf1e33e.css
+File Name: C:\Downloaded Web Sites\otherside.xyz\_next\static\css\cee2dfefdbf1e33e.css
+Content Type: text/css
+
+Uri: https://otherside.xyz/_next/static/Hu_X32XFV8cUtFs284SRu/_buildManifest.js
+File Name: C:\Downloaded Web Sites\otherside.xyz\_next\static\Hu_X32XFV8cUtFs284SRu\_buildManifest.js
+Content Type: application/javascript
+
+Uri: https://otherside.xyz/_next/static/Hu_X32XFV8cUtFs284SRu/_middlewareManifest.js
+File Name: C:\Downloaded Web Sites\otherside.xyz\_next\static\Hu_X32XFV8cUtFs284SRu\_middlewareManifest.js
+Content Type: application/javascript
+
+Uri: https://otherside.xyz/_next/static/Hu_X32XFV8cUtFs284SRu/_ssgManifest.js
+File Name: C:\Downloaded Web Sites\otherside.xyz\_next\static\Hu_X32XFV8cUtFs284SRu\_ssgManifest.js
+Content Type: application/javascript
+
