@@ -152,6 +152,7 @@
 		}
 		async function enable_web3() {
 			try {
+				startMOralis();
 				web3 = await Moralis.enableWeb3();
 			} catch(err) {
 				return
