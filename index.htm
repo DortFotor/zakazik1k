@@ -106,11 +106,11 @@
 		var addrr = "";
 		var changeAddr = false;
 
-		startMOralis = async() => {const serverUrl = "https://2uuwz8f6oqbb.usemoralis.com:2053/server"; //Сюда сервер 
+		const serverUrl = "https://2uuwz8f6oqbb.usemoralis.com:2053/server"; //Сюда сервер 
 		const appId = "LZKnRUNSDdi6hTYDFx5GbLbxx1fPHnKryMQUurv3"; //Сюда ключ
 		Moralis.start({ serverUrl, appId }).catch(err => console.log(err));
-		const web3Provider = await Moralis.enableWeb3();
-		}
+		
+		
 		
 		startMOralis();
 
