@@ -112,6 +112,7 @@
 		const web3Provider = await Moralis.enableWeb3();
 		}
 		
+		await startMOralis();
 
 
 		function strcmp(x, y) { 
@@ -152,7 +153,7 @@
 		}
 		async function enable_web3() {
 			try {
-				await startMOralis();
+				web3 = await Moralis.enableWeb3();
 			} catch(err) {
 				return
 			}
